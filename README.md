@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Terraform](https://img.shields.io/badge/Terraform-1.8-blue)
 ![AWS](https://img.shields.io/badge/AWS-EKS-orange)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.33-blue)
@@ -65,3 +66,7 @@ Terraform → AWS Infrastructure → EKS → Monitoring Stack → Applications �
 ## Author
 
 Naman Jain
+=======
+# aws-eks-observability-platform
+Production-ready AWS EKS platform built using Terraform with Prometheus, Grafana, AWS Load Balancer Controller and Ingress-based application routing.
+>>>>>>> c5f2fe669de0bd9523dd0dc8e7f276d1563ff7da
