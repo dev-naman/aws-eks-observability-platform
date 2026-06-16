@@ -16,4 +16,4 @@ The platform consists of:
 
 ## Architecture Diagram
 
-![Architecture](aws-eks-observability-platform/screenshots/architecture.png)
+![Architecture](../screenshots/architecture.png)
