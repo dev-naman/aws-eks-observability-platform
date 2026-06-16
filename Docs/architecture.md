@@ -16,4 +16,4 @@ The platform consists of:
 
 ## Architecture Diagram
 
-![Architecture](Screenshots/architecture.png)
+![Architecture](screenshots/architecture.png)
